@@ -1,0 +1,32 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color:hsl(212, 45%, 89%);
+  }
+
+.center{
+    text-align: center;
+    width: 325px;
+    margin:25px;
+    padding: 25px;
+   
+    background-color:white;
+    border-radius: 20px;
+}
+
+#improveP{
+    font-weight: 700;
+    font-size: 20px;
+    
+    
+}
+
+h6{
+    font-size: 15px;
+    font-weight: 400;
+}
+img{
+    width: 325px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color:hsl(218, 44%, 22%) ;
+}
